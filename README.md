@@ -11,10 +11,10 @@
 
 - 🌱 I’m still learning **basics**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  <a href="https://instagram.com/smol.yohnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smol.yohnny" height="30" width="40" /></a>
+</p></h3>
 <p align="left">
-<a href="https://instagram.com/smol.yohnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smol.yohnny" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" alt="Substance painter" width="40" height="40"/> </a> </p>
