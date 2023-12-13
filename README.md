@@ -1,9 +1,8 @@
+<h1 align="center">Hi, I'm silly af</h1>
 
 - 🎄 I’m currently working on **Advent of Code**
 
-- 🌱 I’m currently learning **basics**
-
-- 📫 How to reach me **nfirect@gmail.com**
+- 🌱 I’m still learning **basics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
