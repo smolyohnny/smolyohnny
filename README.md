@@ -2,7 +2,7 @@
 
 <h1 align="center">marry chrysler</h1>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wugtrmsfh46kbw2man4ydg33pu">
+<a align="center" href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wugtrmsfh46kbw2man4ydg33pu">
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wugtrmsfh46kbw2man4ydg33pu" alt="Data Card for Spotify">
 </a>
 
