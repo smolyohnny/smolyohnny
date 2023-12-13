@@ -1,6 +1,6 @@
 <h1 align="center">marry chrysler, its christian</h1>
 
-<img align="right" width="400" src="[https://images-ext-1.discordapp.net/external/54wq6yzJHgrbgruX5_Kedzalzh9S698sLr5hjHwAF_U/https/media.tenor.com/oF4WaOJKUsQAAAPo/project-sekai-project-sekai-picmix.mp4](https://media1.tenor.com/m/oF4WaOJKUsQAAAAC/project-sekai-project-sekai-picmix.gif)">
+<img align="right" width="400" src="https://media.discordapp.net/attachments/1162080122334097440/1162159061345783808/977530224159883335.gif?ex=653aebf8&is=652876f8&hm=d571644a48e1aff31bfdbf20e2eb8404243751a050feb10c09d682189de2263d&">
 
 
 - 🎄 I’m currently working on **Advent of Code**
