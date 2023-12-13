@@ -1,5 +1,8 @@
 <h1 align="center">marry chrysler</h1>
 
+<img align="left" width="40" src="https://cdn.discordapp.com/emojis/833404175328215090.gif?size=48&name=Vextrum_Hi&quality=lossless">
+
+
 <img align="right" width="400" src="https://media.discordapp.net/attachments/1162080122334097440/1162159061345783808/977530224159883335.gif?ex=653aebf8&is=652876f8&hm=d571644a48e1aff31bfdbf20e2eb8404243751a050feb10c09d682189de2263d&">
 
 
