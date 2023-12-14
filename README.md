@@ -18,7 +18,7 @@
 <a href="https://instagram.com/smol.yohnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smol.yohnny" height="30" width="40" /> </a>
 <a href="https://discord.com/users/375718319304605702" target="blank"> <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=".yohnny" height="30" width="40" />
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" alt="Substance painter" width="40" height="40"/> </p>
+<p align="left"> <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/java-256.png" alt="java" width="40" height="40"/>  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/blender-256.png" alt="blender" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-256.png" alt="unity" width="40" height="40"/>  <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-substance-3d-painter-256.png" alt="Substance painter" width="40" height="40"/> </p>
 
 
 <h2 align="center"> <p><img width="600" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smolyohnny&" alt="smolyohnny" /></p> </h2>
