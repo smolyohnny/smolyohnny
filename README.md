@@ -14,7 +14,7 @@
 </p></h3>
 <p align="left">
 
-<a href="https://instagram.com/yzy.yohnny" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png" alt="smol.yohnny" width="40" /> </a>
+<a href="https://instagram.com/yzy.yhny" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png" alt="smol.yohnny" width="40" /> </a>
 <a href="https://discord.com/users/375718319304605702" target="blank"> <img align="center" src="https://cdn3.iconfinder.com/data/icons/remixicon-logos/24/discord-line-256.png" alt=".yohnny"  width="40" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/java-256.png" alt="java" width="40" height="40"/>  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/blender-256.png" alt="blender" width="40" height="40"/> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-256.png" alt="unity" width="40" height="40"/>  <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-substance-3d-painter-256.png" alt="Substance painter" width="40" height="40"/> </p>
