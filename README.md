@@ -8,6 +8,7 @@
 
 
 - I’m currently focusing on <a href="https://github.com/smolyohnny/advent-of-code">**Advent of Code** </a>🎄
+- Learning Kotlin
   
 
 <h3 align="left">Connect with me:  
