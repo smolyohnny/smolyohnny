@@ -8,7 +8,7 @@
 
 
 - I’m currently focusing on **making it till tommorow**
-- Learning Kotlin
+- Learning Kotlin & Swift
 
 <h2 align="center" > <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wugtrmsfh46kbw2man4ydg33pu">
   <img width="fill" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wugtrmsfh46kbw2man4ydg33pu" alt="Data Card for Spotify">
