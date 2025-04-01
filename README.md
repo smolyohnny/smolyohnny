@@ -7,7 +7,7 @@
   <h3>📚 Languages & tools I Have Used</h3>
 
   <br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,idea,androidstudio,gradle,firebase,mysql,sqlite,php,html,css,bootstrap,blender,unity,figma,&perline=8"           align="center"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,idea,androidstudio,gradle,firebase,mysql,sqlite,php,html,css,bootstrap,blender,unity,figma,&perline=4"           align="center"/>
   <br>
 
 
