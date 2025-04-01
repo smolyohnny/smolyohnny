@@ -1,6 +1,15 @@
-<h1 align="center">i'm losing my marbles</h1>
+<img src="https://github.com/user-attachments/assets/95781b7b-105c-44c6-8e49-291f0cd7b9c0" width="900">
+<img src="https://github.com/user-attachments/assets/ffa0bfc7-02d2-430f-b90e-3a95280147d6" width="500" align="right">
 
-<img align="right" width="260" src="https://media.discordapp.net/attachments/1162080122334097440/1162159061345783808/977530224159883335.gif?ex=653aebf8&is=652876f8&hm=d571644a48e1aff31bfdbf20e2eb8404243751a050feb10c09d682189de2263d&">
+<div align="left">
+  <br>
+  
+  <h3>📚 Languages & tools I Have Used</h3>
 
-- I’m currently focusing on **making it till tommorow**
-- Learning Kotlin & Swift
+  <br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,idea,androidstudio,gradle,firebase,mysql,sqlite,php,html,css,bootstrap,blender,unity,figma,&perline=8"           align="center"/>
+  <br>
+
+
+</div>
+
