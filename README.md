@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/ffa0bfc7-02d2-430f-b90e-3a95280147d6" width="500" align="right">
 
 <div align="center">
-  <br>
+  <br> <br> <br>
   
   <h3>📚 Languages & tools I Have Used</h3>
 
