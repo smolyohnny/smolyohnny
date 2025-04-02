@@ -12,8 +12,10 @@
 
 <div align="left">
   <samp>
-    <b> Connect with me via
-      <a href="https://discord.com/users/375718319304605702">discord</a> or
+    <b>     
+      Connect with me via
+      <a href="https://discord.com/users/375718319304605702">discord</a>,
+      <a href="https://steamcommunity.com/id/smolyohnny/">steam</a> or
       <a href="https://www.instagram.com/yzy.yhny">instagram</a>!
     <br>
 </div>
