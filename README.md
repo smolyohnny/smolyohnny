@@ -1,3 +1,12 @@
+<div align="center">
+  <samp>
+    <b> Hello, my name is Yohnny!
+    <br>
+    <b> Be welcome!
+    <br>
+</div>
+
+---
 ![git-bio-2](https://github.com/user-attachments/assets/d6edf4c6-d3c1-4326-8036-e0adf0a78b05)
 
 <br>
