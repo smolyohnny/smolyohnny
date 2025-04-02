@@ -9,8 +9,18 @@
 ---
 ![git-bio-2](https://github.com/user-attachments/assets/d6edf4c6-d3c1-4326-8036-e0adf0a78b05)
 
+
+<div align="left">
+  <samp>
+    <b> Connect with me via
+      <a href="https://discord.com/users/375718319304605702">discord</a> or
+      <a href="https://www.instagram.com/yzy.yhny">instagram</a>!
+    <br>
+</div>
 <br>
+
 <div align="center">
+
   
   <h4>📚 Languages & tools I Have Used</h4>
 
