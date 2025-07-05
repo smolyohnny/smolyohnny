@@ -5,13 +5,6 @@
     <b> Be welcome!
     <br><br>
 </div>
-<div align="center">
-<samp>
-    <b>     
-      Languages & tools I use: <br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,idea,androidstudio,gradle,firebase,mysql,sqlite,php,html,css,bootstrap,blender,unity,figma,&perline=8"           align="center"/>
-  <br>
-</div>
 
 <div align="center">
   <samp>
